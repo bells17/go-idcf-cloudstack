@@ -1499,6 +1499,7 @@ type Volume struct {
 	Miniops                    int64  `json:"miniops"`
 	Name                       string `json:"name"`
 	Path                       string `json:"path"`
+	Pcidevicepath              string `json:"pcidevicepath"`
 	Physicalsize               int64  `json:"physicalsize"`
 	Podid                      string `json:"podid"`
 	Podname                    string `json:"podname"`
