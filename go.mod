@@ -1,3 +1,3 @@
-module github.com/xanzy/go-cloudstack
+module github.com/bells17/go-idcf-cloudstack
 
 go 1.12
